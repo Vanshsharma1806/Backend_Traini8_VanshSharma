@@ -1,5 +1,17 @@
 # Backend_Traini8_VanshSharma
 
+## ✨ Features  
+
+- **Create and manage training centers** – Easily add new training centers with details like name, address, capacity, and courses offered.  
+- **Smart validation** – Ensures that all required details are correctly filled out before saving, preventing bad data.  
+- **Search and filter centers** – Retrieve training centers based on different criteria like city, state, and available courses.  
+- **Seamless database integration** – Stores and retrieves data efficiently using MongoDB, making the system fast and reliable.  
+- **User-friendly API responses** – Every request gets a clear and meaningful response, making it easier to understand what went wrong.  
+- **Robust error handling** – Handles errors gracefully with a centralized exception management system, ensuring a smooth user experience.  
+- **Postman-friendly** – The API is designed to work seamlessly with Postman for quick and easy testing.  
+- **Scalable and maintainable** – The project follows best coding practices, making it easy to extend and improve in the future.  
+
+
 ## 🚀 Project Setup Instructions
 
 This guide will help you set up and run the backend project locally.
